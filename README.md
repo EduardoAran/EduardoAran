@@ -1,4 +1,4 @@
-## Juan Eduardo Aran Flores/Ingeniero en Sistemas Computacionales
+# Juan Eduardo Aran Flores/Ingeniero en Sistemas Computacionales
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
@@ -6,7 +6,7 @@ Hola a todos, soy Juan Eduardo Aran Flores un estudiante de ingenieria en sistem
 
 En mi transcurso de mi educacion he creado varios proyectos con la ayuda de mis diferentes equipos, pero con certesa puedo decir que hay sectores de esos trabajo que se como hacerlos y fue lo que hice. En los siguientes proyectos nombrado, tambien incluire en que trabaje y que fue lo que elabore. 
 
-# Proyectos:
+### Proyectos:
 
 - [Proyecto Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
 
