@@ -1,11 +1,13 @@
+## Juan Eduardo Aran Flores/Ingeniero en Sistemas Computacionales
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 Hola a todos, soy Juan Eduardo Aran Flores un estudiante de ingenieria en sistemas computacionales de la universidad del Tecnologico de Monterrey. Gracias a su nueva forma de educar a sus estudientes he podido adquerir multiples comptetencias las cuales ayudan a mi generacion de una mejor persona. Al mismo tiempo nos dio experiencias de proyectos ya con clientes, estres del tiempo y el trabajo en equipo.
 
 En mi transcurso de mi educacion he creado varios proyectos con la ayuda de mis diferentes equipos, pero con certesa puedo decir que hay sectores de esos trabajo que se como hacerlos y fue lo que hice. En los siguientes proyectos nombrado, tambien incluire en que trabaje y que fue lo que elabore. 
 
-3. Proyectos:
-En esta sección, detallarás cada uno de los proyectos que has incluido en tu portafolio. Para cada proyecto, incluye:
+Proyectos:
+[Proyecto Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
 
 - Título del proyecto y breve descripción
 - Objetivos del proyecto
