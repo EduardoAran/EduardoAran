@@ -1,5 +1,4 @@
 # Hello world I'm Juan Eduardo Aran Flores | a.k.a SupSmog
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 A computer systems engineer who is still continuing with his studies in the field of fullstack. Talking abaout my progress I have designed diferente web pages, applications, games, among other things, with the usage of different languages such as ReactJS, Python, JavaScript, C++, C#, Github, Unity, etc. Thanks to my university, I have developed several useful skills, which help me and will help me in the future to continue developing my self. At the same time, our projects were real cases in which we had to interact with various companies and deliver the project following the requirements sought in a certain time frame.
 
@@ -19,3 +18,4 @@ Now I will name some of my technical and soft skills, which I developed while my
 - Soft skills: Effective communication, teamwork, leadership, problem solving, adaptability, among others.
 
 Not only do I dedicate myself 100 percent to coding, I also have hobbies such as exercising, practicing and learning different types of sports, listening to music, and spending good time with family and friends.
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
