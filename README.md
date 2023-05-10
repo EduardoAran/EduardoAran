@@ -6,7 +6,7 @@ Now I will show some projects in which I was part of the creation. I feel very p
 
 ### [Project Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
 
-In this project we were given the challenge of developing a code with the "mesa" tool, which consisted of some robots taking boxes from the plan and taking them to a loading area, that loading area had a maximum capacity, so the robot had to know and respond to what was given to it. This especific proyecto was done myself and it might not be perfect, but it did what was asked for.
+In this project we were given the challenge of developing a code with the "mesa" tool, which consisted of some robots taking boxes from the plan and taking them to a loading area, that loading area had a maximum capacity, so the robot had to know and respond to what was given to it. This especific project was done by myself and it might not be perfect, but it did what was asked for.
 
 ### [Aplication Genjutsucom](https://github.com/EduardoAran/Aplicacion_GenJutsucom)
 
