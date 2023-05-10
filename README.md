@@ -4,11 +4,11 @@ A computer systems engineer who is still continuing with his studies in the fiel
 
 Now I will show some projects in which I was part of the creation. I feel very proud of them. They can be improved, of course, but for what I knew at the moment they are fine.
 
-### [Proyecto Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
+### [Project Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
 
 In this project we were given the challenge of developing a code with the "mesa" tool, which consisted of some robots taking boxes from the plan and taking them to a loading area, that loading area had a maximum capacity, so the robot had to know and respond to what was given to it. This especific proyecto was done myself and it might not be perfect, but it did what was asked for.
 
-### [Proyecto Genjutsucom](https://github.com/EduardoAran/Aplicacion_GenJutsucom)
+### [Aplication Genjutsucom](https://github.com/EduardoAran/Aplicacion_GenJutsucom)
 
 This application was created with the goal of being able to help people learn sign language within a company and at the same time give them tests with which they can demonstrate their progress of what they have learned. In this project I worked on the creation of the application both in the frontend and in the backend.
 
