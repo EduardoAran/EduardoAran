@@ -1,33 +1,22 @@
-# Juan Eduardo Aran Flores/Ingeniero en Sistemas Computacionales
+# Hello world I'm Juan Eduardo Aran Flores | a.k.a SupSmog
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-Hola a todos, soy Juan Eduardo Aran Flores un estudiante de ingenieria en sistemas computacionales de la universidad del Tecnologico de Monterrey. Gracias a su nueva forma de educar a sus estudientes he podido adquerir multiples comptetencias las cuales ayudan a mi generacion de una mejor persona. Al mismo tiempo nos dio experiencias de proyectos ya con clientes, estres del tiempo y el trabajo en equipo.
+A computer systems engineer who is still continuing with his studies in the field of fullstack. Talking abaout my progress I have designed diferente web pages, applications, games, among other things, with the usage of different languages such as ReactJS, Python, JavaScript, C++, C#, Github, Unity, etc. Thanks to my university, I have developed several useful skills, which help me and will help me in the future to continue developing my self. At the same time, our projects were real cases in which we had to interact with various companies and deliver the project following the requirements sought in a certain time frame.
 
-En mi transcurso de mi educacion he creado varios proyectos con la ayuda de mis diferentes equipos, pero con certesa puedo decir que hay sectores de esos trabajo que se como hacerlos y fue lo que hice. En los siguientes proyectos nombrado, tambien incluire en que trabaje y que fue lo que elabore. 
+Now I will show some projects in which I was part of the creation. I feel very proud of them. They can be improved, of course, but for what I knew at the moment they are fine.
 
-### Proyectos:
+### [Proyecto Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
 
-- [Proyecto Robot/Cajas](https://github.com/EduardoAran/robot_cajas)
-- [Proyecto Genjutsucom](https://github.com/EduardoAran/Aplicacion_GenJutsucom)
+In this project we were given the challenge of developing a code with the "mesa" tool, which consisted of some robots taking boxes from the plan and taking them to a loading area, that loading area had a maximum capacity, so the robot had to know and respond to what was given to it. This especific proyecto was done myself and it might not be perfect, but it did what was asked for.
 
-- Título del proyecto y breve descripción
-- Objetivos del proyecto
-- Descripción de las tecnologías y herramientas utilizadas
-- Tu papel en el proyecto
-- Los resultados obtenidos
-- Cualquier otra información relevante
+### [Proyecto Genjutsucom](https://github.com/EduardoAran/Aplicacion_GenJutsucom)
 
-4. Habilidades y competencias:
-En esta sección, resaltarás las habilidades y competencias que has desarrollado a lo largo de tus proyectos. Estas habilidades y competencias pueden incluir:
+This application was created with the goal of being able to help people learn sign language within a company and at the same time give them tests with which they can demonstrate their progress of what they have learned. In this project I worked on the creation of the application both in the frontend and in the backend.
 
-- Habilidades técnicas: Programación en diferentes lenguajes, diseño de bases de datos, conocimiento de sistemas operativos, manejo de herramientas de desarrollo de software, entre otros.
-- Habilidades blandas: Comunicación efectiva, trabajo en equipo, liderazgo, resolución de problemas, adaptabilidad, entre otros.
+Now I will name some of my technical and soft skills, which I developed while my student life was going on.
 
-5. Reflexiones finales:
-En esta sección, presentarás tus reflexiones finales sobre el trabajo realizado en tus proyectos y lo que has aprendido en tu carrera universitaria. También puedes incluir cualquier plan futuro que tengas para continuar desarrollando tus habilidades y competencias en ingeniería de tecnologías computacionales.
+- Technical skills: Programming in different languages, database design, knowledge of operating systems, management of software development tools, software testing, amoung others.
+- Soft skills: Effective communication, teamwork, leadership, problem solving, adaptability, among others.
 
-6. Referencias:
-En esta sección, incluirás cualquier referencia bibliográfica o de recursos que hayas utilizado para llevar a cabo tus proyectos.
-
-Recuerda que es importante que tu portafolio de trabajo de proyectos universitarios sea claro, conciso y fácil de leer. Utiliza un lenguaje técnico cuando sea necesario, pero asegúrate de que cualquier persona pueda entenderlo. También es importante que incluyas ejemplos concretos de proyectos para que los empleadores puedan evaluar tus habilidades y competencias en acción. ¡Buena suerte!
+Not only do I dedicate myself 100 percent to coding, I also have hobbies such as exercising, practicing and learning different types of sports, listening to music, and spending good time with family and friends.
